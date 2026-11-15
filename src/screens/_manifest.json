@@ -1,0 +1,47 @@
+{
+ "app": "Movie Booking App",
+ "start": "s-1",
+ "screens": [
+  {
+   "slug": "s-1",
+   "name": "1",
+   "page": "App Concept",
+   "w": 360,
+   "h": 640,
+   "elements": 93,
+   "links": 5
+  },
+  {
+   "slug": "s-2",
+   "name": "2",
+   "page": "App Concept",
+   "w": 360,
+   "h": 640,
+   "elements": 42,
+   "links": 4
+  },
+  {
+   "slug": "s-2-1",
+   "name": "2.1",
+   "page": "App Concept",
+   "w": 360,
+   "h": 760,
+   "elements": 47,
+   "links": 4
+  },
+  {
+   "slug": "s-1-1",
+   "name": "1.1",
+   "page": "App Concept",
+   "w": 360,
+   "h": 760,
+   "elements": 99,
+   "links": 5
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat"
+ ]
+}
